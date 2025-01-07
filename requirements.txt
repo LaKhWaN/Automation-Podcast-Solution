@@ -1,0 +1,7 @@
+tkinter
+pygame
+newspaper3k
+pyht
+google.generativeai
+pydub
+dotenv
